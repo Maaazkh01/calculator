@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.maaz.calculator"
+    namespace = "com.maaz.notes"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.maaz.calculator"
+        applicationId = "com.maaz.notes"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
@@ -36,6 +36,7 @@ android {
     }
     buildFeatures{
         viewBinding = true
+        dataBinding = true
     }
 }
 

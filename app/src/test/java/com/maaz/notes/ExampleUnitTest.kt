@@ -1,4 +1,4 @@
-package com.maaz.calculator
+package com.maaz.notes
 
 import org.junit.Test
 

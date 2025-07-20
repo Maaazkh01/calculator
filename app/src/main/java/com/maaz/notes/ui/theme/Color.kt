@@ -1,4 +1,4 @@
-package com.maaz.calculator.ui.theme
+package com.maaz.notes.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
